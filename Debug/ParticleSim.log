@@ -1,0 +1,15 @@
+﻿  ParticleSim.cpp
+F:\Dev\ParticleSim\ParticleSim.cpp(106,27): warning C4018: '<': signed/unsigned mismatch
+F:\Dev\ParticleSim\ParticleSim.cpp(107,31): warning C4018: '<': signed/unsigned mismatch
+F:\Dev\ParticleSim\ParticleSim.cpp(120,27): warning C4018: '<': signed/unsigned mismatch
+F:\Dev\ParticleSim\ParticleSim.cpp(123,31): warning C4018: '<': signed/unsigned mismatch
+F:\Dev\ParticleSim\ParticleSim.cpp(128,30): warning C4834: discarding return value of function with 'nodiscard' attribute
+F:\Dev\ParticleSim\ParticleSim.cpp(134,22): warning C4834: discarding return value of function with 'nodiscard' attribute
+F:\Dev\ParticleSim\ParticleSim.cpp(140,27): warning C4018: '<': signed/unsigned mismatch
+F:\Dev\ParticleSim\ParticleSim.cpp(152,27): warning C4018: '<': signed/unsigned mismatch
+F:\Dev\ParticleSim\ParticleSim.cpp(153,31): warning C4018: '<': signed/unsigned mismatch
+F:\Dev\ParticleSim\ParticleSim.cpp(162,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+F:\Dev\ParticleSim\ParticleSim.cpp(165,27): warning C4018: '<': signed/unsigned mismatch
+F:\Dev\ParticleSim\ParticleSim.cpp(168,37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Dev\ParticleSim\ParticleSim.cpp(209,27): warning C4018: '<': signed/unsigned mismatch
+  ParticleSim.vcxproj -> F:\Dev\ParticleSim\Debug\ParticleSim.exe
